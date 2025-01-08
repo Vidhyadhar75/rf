@@ -28,7 +28,7 @@ let rfidData = '';
 // MySQL connection setup
 const mysqlConfig = {
   host: '34.93.153.146',
-  user: 'root',
+  user: 'vidhya',
   password: 'Maybe@123',
   database: 'attendance_system'
 };
